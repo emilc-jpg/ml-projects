@@ -1,7 +1,7 @@
 ## Machine Learning Projects
 Collection of my ML projects over the years
 
-- Melbourne Housting Prices Linear Regression
+- Melbourne Housing Prices Linear Regression
 
 https://colab.research.google.com/drive/1y7oBLa9CTIoppc7clvH0Uf_arWY-kx6G?usp=sharing
 
